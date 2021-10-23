@@ -1,0 +1,28 @@
+<svg id="icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-2 {
+                fill: none;
+                stroke: #000;
+                stroke-width: 2px;
+            }
+
+            .cls-1 {
+                stroke-miterlimit: 10;
+            }
+
+            .cls-2 {
+                stroke-linecap: round;
+                stroke-linejoin: round;
+            }
+        </style>
+    </defs>
+    <title>42 copy</title>
+    <g id="mouse">
+        <path class="cls-1" d="M50.50848,22.50185v1.61159h-37.017V22.50185a18.50848,18.50848,0,1,1,37.017,0Z" />
+        <path class="cls-2"
+            d="M50.50848,44.30587c0,8.67053-8.28527,15.69745-18.50848,15.69745S13.49152,52.9764,13.49152,44.30587v-21.804a18.50848,18.50848,0,1,1,37.017,0Z" />
+        <line class="cls-2" x1="32" y1="9.95148" x2="32" y2="18.80307" />
+    </g>
+</svg>
